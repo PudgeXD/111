@@ -1,0 +1,11 @@
+githubWiki:
+https://github.com/sripathikrishnan/redis-rdb-tools/wiki/Redis-RDB-Dump-File-Format
+解密Redis持久化：
+https://blog.csdn.net/jackpk/article/details/30079925
+C++ tinyXML读取xml文件
+http://www.cnblogs.com/marchtea/archive/2012/11/08/2760593.html
+XML文件编写
+https://www.w3schools.com/xml/xml_elements.asp
+Murmurhash3算法
+https://github.com/aappleby/smhasher/blob/master/src/MurmurHash3.cpp
+https://github.com/aappleby/smhasher/wiki/MurmurHash3

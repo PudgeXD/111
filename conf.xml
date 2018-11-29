@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property>
+		<!--小于该值则存储value的类型为int，否则为string -->
+		<mode>local</mode>
+		<!--小于该值则存储value的类型为int，否则为string -->
+		<object_int>0,9999</object_int>
+		<!--允许客户端发送内容的最大字节长度 -->
+		<command_len>50</command_len>
+		<!--初始化数据库的数量 -->
+		<db_count>16</db_count>
+		<!--持久化程度 -->
+		<RDBsave>
+			900,1
+			300,10
+			60,10000
+		</RDBsave>
+		<swap_value_threshold>2048</swap_value_threshold>
+		<!--各种编码的阈值-->
+	</property>
+</configuration>

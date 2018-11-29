@@ -1,0 +1,4 @@
+OK:
+linkedList.h
+buffer.h
+string.h
